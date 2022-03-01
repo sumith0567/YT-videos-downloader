@@ -1,5 +1,7 @@
 # YT-videos-downloader
 
+#REQUIRED PIP INSTALLATIONS => [tkinter,pytube]
+
 #downloads YouTube videos in the system in python.
 
 #For Linux and Windows have same python source code.
