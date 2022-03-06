@@ -9,7 +9,7 @@
 #After pasting link, wait untill button is turned into green, 
 #it may show not resonping in windows as video will be downloading in background code.
 
-In Linux:-
+In Linux(ubuntu):-
 
 application => /YT-downloader_for _Linux/sr1
 
